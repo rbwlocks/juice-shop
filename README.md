@@ -1,5 +1,11 @@
 # Folked for Inspector Code Scan
 
+## Initial Scan
+
+Critical (32)
+High (315)
+Medium (0)
+
 # ![Juice Shop Logo](https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_100px.png) OWASP Juice Shop
 
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/#sec-flagships)
